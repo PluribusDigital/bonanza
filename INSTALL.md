@@ -15,7 +15,7 @@ This should only need to be performed once
 
 ```bash
 # Clone the project from github
-git clone <TBD>
+git clone https://github.com/STSILABS/bonanza.git
 cd bonanza
 source ./activate-virtualenv.sh
 workon bonanza
