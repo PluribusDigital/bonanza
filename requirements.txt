@@ -1,0 +1,6 @@
+beautifulsoup4
+configargparse
+pillow
+PyPDF2
+pytesseract
+spacy
