@@ -2,7 +2,7 @@
 
 ## System Dependencies
 
-1. Python 3
+1. Python 3 ([OSX instructions](https://docs.python-guide.org/starting/install3/osx/))
 1. Virtual Environments
 
     ```
